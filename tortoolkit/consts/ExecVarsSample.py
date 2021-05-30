@@ -5,10 +5,10 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "f2d551e1e354bb34e3f512921f811d4f"
+        API_ID = 2831155
+        BOT_TOKEN = "1529020881:AAHY9So46Dp99G_5_mzkIWdDIljabMkfApk"
+        BASE_URL_OF_BOT = "https://leechmcmirror.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -69,7 +69,7 @@ except:
 
         # Set this to your bot username if you want to add the username of your bot at the end of the commands like
         # /leech@TorToolkitBot so the value will be @TorToolkitBot
-        BOT_CMD_POSTFIX = "" 
+        BOT_CMD_POSTFIX = "@mcmirror" 
 
         # Time out for the status Delete.
         STATUS_DEL_TOUT = 20
